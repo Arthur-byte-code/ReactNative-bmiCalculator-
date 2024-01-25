@@ -16,6 +16,6 @@ I have created a mobile Body Mass Index (BMI) calculator using React Native with
 **Installation:**
 
 
-You need to use the following command to download all JavaScript dependencies.
+You need to use the following command to download all JavaScript dependencies. **Use o comando abaixo para baixar as dependências necessárias do projeto**
 ```bash
 npm install
