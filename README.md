@@ -7,7 +7,7 @@ Desenvolvi uma calculadora de Índice de Massa Corporal (IMC) para dispositivos 
 
 I have created a mobile Body Mass Index (BMI) calculator using React Native with Expo.
 
-**Preview:**
+**Preview - Veja Abaixo:**
 
 
 <img src="https://github.com/Arthur-byte-code/ReactNative-bmiCalculator-/assets/152222113/894f89ac-a610-4813-9ba8-83a8bc118b09" alt="AppReact" width="400">
